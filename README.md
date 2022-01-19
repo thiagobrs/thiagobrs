@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Thiago Batista, a brazilian AI enthusiast with great passion for outdoors sports.
-- 👀 I’m interested in deep learning, data science, graphs, recomendation systems, Python, Arduino, Power BI, science in general and learning from different cultures.
-- 🌱 I’m currently finishing my masters degree in Machine Learning and an AI specialization focused on deep learning.
-- 💞️ I’m looking to collaborate on challenging projects with teams all over the world, specially on projects related to machine learning and/or data science.
+- 👋 Hi, welcome to my Github page! I'm a brazilian AI enthusiast and I hope to connect with others to share our knowledge, our culture and have fun creating some good stuff.
+- 👀 I’m interested in deep learning, data science, cloud computing, graphs, recomendation systems, robotics, IOT, Python, SQL, Power BI, Arduino, science, startups, books and SURFING.
+- 🌱 I have a bachelor degree in Computer Engineering and I'm currently finishing my master's degree in Machine Learning and an AI specialization focused on deep learning.
+- 💞️ I’m looking to collaborate with teams around the world on challenging and inovative projects capable of positively impacting people's lives and the environment.
 - 📫 How to reach me:
   - github.com/thiagobrs/
   - linkedin.com/in/thiagobrsilva/
